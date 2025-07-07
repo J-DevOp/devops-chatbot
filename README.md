@@ -1,6 +1,6 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/jdockerz7/devops-chat-bot)
 ![Docker Image Size](https://img.shields.io/docker/image-size/jdockerz7/devops-chat-bot/latest)
-![GitHub last commit](https://img.shields.io/github/last-commit/J-DevOp/devops-chat-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/J-DevOp/devops-chatbot)
 
 
 # 🧠 DevOps Chat Bot 🤖
