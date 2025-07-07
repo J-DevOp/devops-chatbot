@@ -19,5 +19,16 @@ An intelligent, Dockerized chatbot designed to help users master DevOps — pack
 ### Clone the Repository
 
 ```bash
+
+🛠 Built With
+
+    Node.js
+
+    Express
+
+    Docker
+
+    OpenAI (for AI-powered chat responses)
+
 git clone https://github.com/J-DevOp/devops-chatbot.git
-cd devops-chat-bot
+cd devops-chatbot
